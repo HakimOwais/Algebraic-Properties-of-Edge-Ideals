@@ -40,9 +40,10 @@ The thesis aims to:
 - Develop algebraic tools that address combinatorial challenges in graph theory.
 - Provide a foundation for further research in combinatorial commutative algebra and algebraic graph theory.
 
-## Acknowledgements
+### Extended Acknowledgements and Support
 
-The authors extend their gratitude to their advisor, Dr. Shahnawaz Ahmad Rather, and to the faculty at the Central University of Kashmir for their guidance and support throughout the project.
+I extend my heartfelt support and gratitude to everyone who has contributed to this work. I deeply appreciate the help, guidance, and encouragement received from my advisor, colleagues, friends, and family. Your support has been invaluable in overcoming challenges and refining the ideas presented in this study.
+
 
 ---
 
